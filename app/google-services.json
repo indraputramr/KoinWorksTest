@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258874231714",
+    "firebase_url": "https://koinworkstest.firebaseio.com",
+    "project_id": "koinworkstest",
+    "storage_bucket": "koinworkstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258874231714:android:8b65dd493d3fa234",
+        "android_client_info": {
+          "package_name": "com.example.indraputramr.koinworkstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258874231714-92endlu3438l03g9epv72uor58lesjpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.indraputramr.koinworkstest",
+            "certificate_hash": "d06dabc912e7c150a301bb254ff127d9e8687bbf"
+          }
+        },
+        {
+          "client_id": "258874231714-64k42k5j225p66td2uh0n88g07p4vrlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALEI4zYLH1JIXPSTxmI2sslbFXWQhgZTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258874231714-64k42k5j225p66td2uh0n88g07p4vrlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
